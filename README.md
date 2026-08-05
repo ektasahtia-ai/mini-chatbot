@@ -5,7 +5,7 @@ ChatPy can respond to greetings, remember your name, tell jokes, share facts, mo
 
 ---
 
-## Features
+## Featuress
 
 - Responds to greetings
 - Remembers user names
