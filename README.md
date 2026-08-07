@@ -1,4 +1,4 @@
-# ChatPy–Smart Python Chatbot
+# ChatPy - A Smart Python Chatbot
 
 A smart beginner-friendly chatbot built using Python.  
 ChatPy can respond to greetings, remember your name, tell jokes, share facts, motivate users, perform simple calculation.
