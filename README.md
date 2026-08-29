@@ -15,7 +15,7 @@ ChatPy can respond to greetings, remember your name, tell jokes, share facts, mo
 - Motivation messages
 - Shows current time
 - Basic calculator support
-- Handles exit commands
+- Handles exit command
 - Randomized responses for natural conversations
 
 ---
